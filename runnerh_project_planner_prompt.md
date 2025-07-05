@@ -142,7 +142,7 @@ Then execute this function call with the EXACT format:
 functions.notion__API-post-page({
   "parent": {
     "type": "database_id",
-    "database_id": "22520d3f5e2c808e8892f9c74a8610e3"
+    "database_id": "YOUR_DATABASE_ID"
   },
   "icon": {
     "type": "emoji",
